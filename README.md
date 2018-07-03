@@ -1,1 +1,1 @@
-# projecteular
+# Project Eular Solutions
